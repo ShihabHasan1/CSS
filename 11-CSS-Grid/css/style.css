@@ -1,0 +1,27 @@
+.grid_container{
+    background-color: red;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 400px;
+    gap: 20px;
+    padding: 10px;
+    
+}
+.box1{
+    border: 1px solid blue;
+}
+.box2{
+    border: 1px solid blue;
+}
+.box3{
+    border: 1px solid blue;
+}
+.box4{
+    border: 1px solid blue;
+}
+.box5{
+    border: 1px solid blue;
+}
+.box6{
+    border: 1px solid blue;
+}
